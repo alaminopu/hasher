@@ -1,6 +1,6 @@
-# hasher
+# Hasher
 
-**hasher:** A rust binding to generate md5 hash value
+A rust binding for creating node module to generate md5 hash value
 
 This project was bootstrapped by [create-neon](https://www.npmjs.com/package/create-neon).
 
